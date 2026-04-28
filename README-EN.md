@@ -76,7 +76,6 @@ The gateway may see `scope=public`, while the backend sees `scope=internal`.
 
 - Category: Web
 - Topic: Parser Differential, URL Normalization, Duplicate JSON Key
-- Difficulty: Medium-Hard
 
 ## Spoiler
 
