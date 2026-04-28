@@ -76,7 +76,6 @@ Backend는 일반적인 Python `json.loads()` 동작처럼 duplicate key 중 마
 
 - Category: Web
 - Topic: Parser Differential, URL Normalization, Duplicate JSON Key
-- Difficulty: Medium-Hard
 
 ## Files
 
